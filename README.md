@@ -9,4 +9,8 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harsh1606/LeetCode/tree/master/0001-two-sum) |
+## Database
+|  |
+| ------- |
+| [0627-swap-salary](https://github.com/harsh1606/LeetCode/tree/master/0627-swap-salary) |
 <!---LeetCode Topics End-->
