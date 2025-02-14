@@ -20,4 +20,5 @@
 | [1153-product-sales-analysis-i](https://github.com/harsh1606/LeetCode/tree/master/1153-product-sales-analysis-i) |
 | [1179-game-play-analysis-i](https://github.com/harsh1606/LeetCode/tree/master/1179-game-play-analysis-i) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/harsh1606/LeetCode/tree/master/1245-user-activity-for-the-past-30-days-i) |
+| [1268-market-analysis-i](https://github.com/harsh1606/LeetCode/tree/master/1268-market-analysis-i) |
 <!---LeetCode Topics End-->
