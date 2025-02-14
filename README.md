@@ -24,4 +24,5 @@
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/harsh1606/LeetCode/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1268-market-analysis-i](https://github.com/harsh1606/LeetCode/tree/master/1268-market-analysis-i) |
 | [1301-reformat-department-table](https://github.com/harsh1606/LeetCode/tree/master/1301-reformat-department-table) |
+| [1415-students-and-examinations](https://github.com/harsh1606/LeetCode/tree/master/1415-students-and-examinations) |
 <!---LeetCode Topics End-->
