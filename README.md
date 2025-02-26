@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harsh1606/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/harsh1606/LeetCode/tree/master/0013-roman-to-integer) |
 ## Database
 |  |
 | ------- |
@@ -30,4 +31,9 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/harsh1606/LeetCode/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/harsh1606/LeetCode/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/harsh1606/LeetCode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
