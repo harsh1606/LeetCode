@@ -14,6 +14,6 @@ class Solution:
                 i += 2  
             else:
                 sum_int += dic[s[i]]
-                i += 1  # Move to the next character
+                i += 1  
 
         return sum_int
