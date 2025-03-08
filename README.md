@@ -36,4 +36,9 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/harsh1606/LeetCode/tree/master/0013-roman-to-integer) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/harsh1606/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+## Sliding Window
+|  |
+| ------- |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/harsh1606/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!---LeetCode Topics End-->
