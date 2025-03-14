@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harsh1606/LeetCode/tree/master/0001-two-sum) |
+| [0605-can-place-flowers](https://github.com/harsh1606/LeetCode/tree/master/0605-can-place-flowers) |
 | [3483-alternating-groups-ii](https://github.com/harsh1606/LeetCode/tree/master/3483-alternating-groups-ii) |
 ## Hash Table
 |  |
@@ -50,4 +51,8 @@
 |  |
 | ------- |
 | [1894-merge-strings-alternately](https://github.com/harsh1606/LeetCode/tree/master/1894-merge-strings-alternately) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/harsh1606/LeetCode/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
