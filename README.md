@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harsh1606/LeetCode/tree/master/0001-two-sum) |
+| [0238-product-of-array-except-self](https://github.com/harsh1606/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/harsh1606/LeetCode/tree/master/0605-can-place-flowers) |
 | [3483-alternating-groups-ii](https://github.com/harsh1606/LeetCode/tree/master/3483-alternating-groups-ii) |
 ## Hash Table
@@ -59,4 +60,8 @@
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/harsh1606/LeetCode/tree/master/0605-can-place-flowers) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/harsh1606/LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
