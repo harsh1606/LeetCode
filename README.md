@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/harsh1606/LeetCode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/harsh1606/LeetCode/tree/master/0066-plus-one) |
+| [0169-majority-element](https://github.com/harsh1606/LeetCode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/harsh1606/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/harsh1606/LeetCode/tree/master/0605-can-place-flowers) |
 | [3483-alternating-groups-ii](https://github.com/harsh1606/LeetCode/tree/master/3483-alternating-groups-ii) |
@@ -14,6 +15,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/harsh1606/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/harsh1606/LeetCode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/harsh1606/LeetCode/tree/master/0169-majority-element) |
 | [2487-optimal-partition-of-string](https://github.com/harsh1606/LeetCode/tree/master/2487-optimal-partition-of-string) |
 ## Database
 |  |
@@ -69,4 +71,16 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/harsh1606/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/harsh1606/LeetCode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/harsh1606/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/harsh1606/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
