@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harsh1606/LeetCode/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/harsh1606/LeetCode/tree/master/0066-plus-one) |
 | [0238-product-of-array-except-self](https://github.com/harsh1606/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/harsh1606/LeetCode/tree/master/0605-can-place-flowers) |
 | [3483-alternating-groups-ii](https://github.com/harsh1606/LeetCode/tree/master/3483-alternating-groups-ii) |
@@ -38,6 +39,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/harsh1606/LeetCode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/harsh1606/LeetCode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/harsh1606/LeetCode/tree/master/0066-plus-one) |
 ## String
 |  |
 | ------- |
