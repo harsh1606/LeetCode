@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/harsh1606/LeetCode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/harsh1606/LeetCode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/harsh1606/LeetCode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/harsh1606/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/harsh1606/LeetCode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/harsh1606/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/harsh1606/LeetCode/tree/master/0605-can-place-flowers) |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/harsh1606/LeetCode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/harsh1606/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/harsh1606/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/harsh1606/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/harsh1606/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -82,6 +84,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/harsh1606/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/harsh1606/LeetCode/tree/master/0169-majority-element) |
 ## Counting
 |  |
