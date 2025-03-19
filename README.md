@@ -47,6 +47,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/harsh1606/LeetCode/tree/master/0013-roman-to-integer) |
+| [0125-valid-palindrome](https://github.com/harsh1606/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/harsh1606/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/harsh1606/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1894-merge-strings-alternately](https://github.com/harsh1606/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/harsh1606/LeetCode/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/harsh1606/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/harsh1606/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/harsh1606/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1894-merge-strings-alternately](https://github.com/harsh1606/LeetCode/tree/master/1894-merge-strings-alternately) |
