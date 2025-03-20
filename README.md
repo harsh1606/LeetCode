@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harsh1606/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/harsh1606/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harsh1606/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/harsh1606/LeetCode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/harsh1606/LeetCode/tree/master/0066-plus-one) |
@@ -64,6 +65,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/harsh1606/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harsh1606/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/harsh1606/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/harsh1606/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -75,6 +77,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/harsh1606/LeetCode/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/harsh1606/LeetCode/tree/master/0605-can-place-flowers) |
 | [2487-optimal-partition-of-string](https://github.com/harsh1606/LeetCode/tree/master/2487-optimal-partition-of-string) |
 ## Prefix Sum
