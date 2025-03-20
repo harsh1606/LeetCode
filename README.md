@@ -11,6 +11,7 @@
 | [0088-merge-sorted-array](https://github.com/harsh1606/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/harsh1606/LeetCode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/harsh1606/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/harsh1606/LeetCode/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/harsh1606/LeetCode/tree/master/0605-can-place-flowers) |
 | [3483-alternating-groups-ii](https://github.com/harsh1606/LeetCode/tree/master/3483-alternating-groups-ii) |
 ## Hash Table
@@ -68,6 +69,7 @@
 | [0088-merge-sorted-array](https://github.com/harsh1606/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/harsh1606/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/harsh1606/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/harsh1606/LeetCode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/harsh1606/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1894-merge-strings-alternately](https://github.com/harsh1606/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Greedy
