@@ -27,6 +27,7 @@
 | ------- |
 | [0177-nth-highest-salary](https://github.com/harsh1606/LeetCode/tree/master/0177-nth-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/harsh1606/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0601-human-traffic-of-stadium](https://github.com/harsh1606/LeetCode/tree/master/0601-human-traffic-of-stadium) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/harsh1606/LeetCode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0607-sales-person](https://github.com/harsh1606/LeetCode/tree/master/0607-sales-person) |
 | [0608-tree-node](https://github.com/harsh1606/LeetCode/tree/master/0608-tree-node) |
