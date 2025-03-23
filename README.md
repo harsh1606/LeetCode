@@ -43,6 +43,7 @@
 | [1462-list-the-products-ordered-in-a-period](https://github.com/harsh1606/LeetCode/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1541-top-travellers](https://github.com/harsh1606/LeetCode/tree/master/1541-top-travellers) |
 | [1625-group-sold-products-by-the-date](https://github.com/harsh1606/LeetCode/tree/master/1625-group-sold-products-by-the-date) |
+| [1948-rearrange-products-table](https://github.com/harsh1606/LeetCode/tree/master/1948-rearrange-products-table) |
 ## Math
 |  |
 | ------- |
