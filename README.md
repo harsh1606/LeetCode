@@ -45,6 +45,7 @@
 | [1625-group-sold-products-by-the-date](https://github.com/harsh1606/LeetCode/tree/master/1625-group-sold-products-by-the-date) |
 | [1948-rearrange-products-table](https://github.com/harsh1606/LeetCode/tree/master/1948-rearrange-products-table) |
 | [2041-the-latest-login-in-2020](https://github.com/harsh1606/LeetCode/tree/master/2041-the-latest-login-in-2020) |
+| [3816-dna-pattern-recognition](https://github.com/harsh1606/LeetCode/tree/master/3816-dna-pattern-recognition) |
 ## Math
 |  |
 | ------- |
