@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/harsh1606/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/harsh1606/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/harsh1606/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/harsh1606/LeetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harsh1606/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/harsh1606/LeetCode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/harsh1606/LeetCode/tree/master/0066-plus-one) |
@@ -73,6 +74,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/harsh1606/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/harsh1606/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/harsh1606/LeetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harsh1606/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/harsh1606/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/harsh1606/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -99,6 +101,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/harsh1606/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/harsh1606/LeetCode/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/harsh1606/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/harsh1606/LeetCode/tree/master/0169-majority-element) |
 ## Counting
