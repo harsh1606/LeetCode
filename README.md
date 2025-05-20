@@ -23,6 +23,7 @@
 | [0001-two-sum](https://github.com/harsh1606/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/harsh1606/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/harsh1606/LeetCode/tree/master/0169-majority-element) |
+| [0768-partition-labels](https://github.com/harsh1606/LeetCode/tree/master/0768-partition-labels) |
 | [2487-optimal-partition-of-string](https://github.com/harsh1606/LeetCode/tree/master/2487-optimal-partition-of-string) |
 ## Database
 |  |
@@ -61,6 +62,7 @@
 | [0125-valid-palindrome](https://github.com/harsh1606/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/harsh1606/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/harsh1606/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0768-partition-labels](https://github.com/harsh1606/LeetCode/tree/master/0768-partition-labels) |
 | [1894-merge-strings-alternately](https://github.com/harsh1606/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/harsh1606/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2487-optimal-partition-of-string](https://github.com/harsh1606/LeetCode/tree/master/2487-optimal-partition-of-string) |
@@ -82,12 +84,14 @@
 | [0151-reverse-words-in-a-string](https://github.com/harsh1606/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/harsh1606/LeetCode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/harsh1606/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0768-partition-labels](https://github.com/harsh1606/LeetCode/tree/master/0768-partition-labels) |
 | [1894-merge-strings-alternately](https://github.com/harsh1606/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/harsh1606/LeetCode/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/harsh1606/LeetCode/tree/master/0605-can-place-flowers) |
+| [0768-partition-labels](https://github.com/harsh1606/LeetCode/tree/master/0768-partition-labels) |
 | [2487-optimal-partition-of-string](https://github.com/harsh1606/LeetCode/tree/master/2487-optimal-partition-of-string) |
 ## Prefix Sum
 |  |
