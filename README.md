@@ -19,6 +19,7 @@
 | [0239-sliding-window-maximum](https://github.com/harsh1606/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/harsh1606/LeetCode/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/harsh1606/LeetCode/tree/master/0605-can-place-flowers) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/harsh1606/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3483-alternating-groups-ii](https://github.com/harsh1606/LeetCode/tree/master/3483-alternating-groups-ii) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/harsh1606/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0768-partition-labels](https://github.com/harsh1606/LeetCode/tree/master/0768-partition-labels) |
 | [2487-optimal-partition-of-string](https://github.com/harsh1606/LeetCode/tree/master/2487-optimal-partition-of-string) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/harsh1606/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Database
 |  |
 | ------- |
@@ -82,6 +84,7 @@
 | [0239-sliding-window-maximum](https://github.com/harsh1606/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/harsh1606/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/harsh1606/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/harsh1606/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3483-alternating-groups-ii](https://github.com/harsh1606/LeetCode/tree/master/3483-alternating-groups-ii) |
 ## Two Pointers
 |  |
