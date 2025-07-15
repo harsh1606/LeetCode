@@ -60,6 +60,7 @@
 | [2041-the-latest-login-in-2020](https://github.com/harsh1606/LeetCode/tree/master/2041-the-latest-login-in-2020) |
 | [2110-employees-with-missing-information](https://github.com/harsh1606/LeetCode/tree/master/2110-employees-with-missing-information) |
 | [3816-dna-pattern-recognition](https://github.com/harsh1606/LeetCode/tree/master/3816-dna-pattern-recognition) |
+| [3865-find-product-recommendation-pairs](https://github.com/harsh1606/LeetCode/tree/master/3865-find-product-recommendation-pairs) |
 | [3898-seasonal-sales-analysis](https://github.com/harsh1606/LeetCode/tree/master/3898-seasonal-sales-analysis) |
 | [3910-find-books-with-no-available-copies](https://github.com/harsh1606/LeetCode/tree/master/3910-find-books-with-no-available-copies) |
 | [3921-find-consistently-improving-employees](https://github.com/harsh1606/LeetCode/tree/master/3921-find-consistently-improving-employees) |
