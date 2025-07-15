@@ -83,6 +83,7 @@
 | [1894-merge-strings-alternately](https://github.com/harsh1606/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/harsh1606/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2487-optimal-partition-of-string](https://github.com/harsh1606/LeetCode/tree/master/2487-optimal-partition-of-string) |
+| [3396-valid-word](https://github.com/harsh1606/LeetCode/tree/master/3396-valid-word) |
 ## Sliding Window
 |  |
 | ------- |
