@@ -60,6 +60,7 @@
 | [2041-the-latest-login-in-2020](https://github.com/harsh1606/LeetCode/tree/master/2041-the-latest-login-in-2020) |
 | [2110-employees-with-missing-information](https://github.com/harsh1606/LeetCode/tree/master/2110-employees-with-missing-information) |
 | [3530-odd-and-even-transactions](https://github.com/harsh1606/LeetCode/tree/master/3530-odd-and-even-transactions) |
+| [3767-find-students-who-improved](https://github.com/harsh1606/LeetCode/tree/master/3767-find-students-who-improved) |
 | [3816-dna-pattern-recognition](https://github.com/harsh1606/LeetCode/tree/master/3816-dna-pattern-recognition) |
 | [3848-analyze-subscription-conversion](https://github.com/harsh1606/LeetCode/tree/master/3848-analyze-subscription-conversion) |
 | [3865-find-product-recommendation-pairs](https://github.com/harsh1606/LeetCode/tree/master/3865-find-product-recommendation-pairs) |
