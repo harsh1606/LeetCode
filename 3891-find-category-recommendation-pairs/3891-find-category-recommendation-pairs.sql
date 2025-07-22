@@ -1,6 +1,5 @@
 with cte1 as (
-    select user_id, category,
-    sum(ifnull(quantity ,0)) as tot_qua
+    select user_id, category
     from ProductPurchases as P
     left join ProductInfo as Pinfo
     on P.product_id = Pinfo.product_id 
