@@ -86,6 +86,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/harsh1606/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/harsh1606/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/harsh1606/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0647-palindromic-substrings](https://github.com/harsh1606/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/harsh1606/LeetCode/tree/master/0768-partition-labels) |
 | [1894-merge-strings-alternately](https://github.com/harsh1606/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/harsh1606/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -116,6 +117,7 @@
 | [0189-rotate-array](https://github.com/harsh1606/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/harsh1606/LeetCode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/harsh1606/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0647-palindromic-substrings](https://github.com/harsh1606/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/harsh1606/LeetCode/tree/master/0768-partition-labels) |
 | [1894-merge-strings-alternately](https://github.com/harsh1606/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Greedy
@@ -163,4 +165,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/harsh1606/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/harsh1606/LeetCode/tree/master/0647-palindromic-substrings) |
 <!---LeetCode Topics End-->
